@@ -34,14 +34,14 @@ module.exports = {
       },
 
       // Exclude dependency from transpiling
-      exclude: [
-        /node_modules\/ace-builds/
-      ],
-
-      // Exclude dependency from targeting
-      doNotTarget: [
-        /node_modules\/ace-builds/
-      ],
+//      exclude: [
+//        /node_modules\/ace-builds/
+//      ],
+//
+//      // Exclude dependency from targeting
+//      doNotTarget: [
+//        /node_modules\/ace-builds/
+//      ],
 
       // Target browsers with and without ES modules support
       targets: {
